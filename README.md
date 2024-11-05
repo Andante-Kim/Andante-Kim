@@ -13,7 +13,6 @@
 ✍️ &nbsp;Apart from technical interests, I like reading books, writing something like novels, tarot, universe and neuroscience.\
 ✉️ &nbsp;You can email me at andante.mjkim@gmail.com
 
-### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
 
 -----
 ### 📫 &nbsp; How to reach me:
