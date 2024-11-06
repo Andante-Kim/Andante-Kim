@@ -42,7 +42,7 @@
 </div>
 <div  align="center">
 
-<a href="https://Andante-Kim.github.io/WebProject1_myownworld/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Andante-Kim&repo=WebProject1_myownworld&show_icons=true&theme=great-gatsby" ></a>
+<a href="https://Andante-Kim.github.io/WebProject1_myownworld/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Andante-Kim&repo=WebProject1_myownworld&show_icons=true&theme=great-gatsby" ></a>;
 
 <a href="https://Andante-Kim.github.io/webProject2_travellog/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Andante-Kim&repo=webProject2_travellog&show_icons=true&theme=great-gatsby" ></a>
 
