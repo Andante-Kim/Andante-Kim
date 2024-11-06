@@ -32,6 +32,7 @@
 | [CodeSignal_Solutions](https://github.com/Andante-Kim/CodeSignal_Solutions) | This repository includes my solutions for the arcade challenges and learning progress in CodeSignal. |
 | [ComputerVision Study](https://github.com/Andante-Kim/ComputerVision_study) | This repository is record for course of studying computer vision with openCV, numpy, etc. |
 | [Simple bulletin board webpage_myownworld](https://github.com/Andante-Kim/WebProject1_myownworld) | This repository is my first web programming! You can add your own code.| 
+| [webProjects_travellog](https://github.com/Andante-Kim/webProject2_travellog) | This repository is my second web programming! Now I'm making this.| 
 
 
 
@@ -42,6 +43,7 @@
 <div  align="center">
 
 <a href="https://Andante-Kim.github.io/WebProject1_myownworld/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Andante-Kim&repo=WebProject1_myownworld&show_icons=true&theme=great-gatsby" ></a>
+<a href="https://Andante-Kim.github.io/webProject2_travellog/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Andante-Kim&repo=webProject2_travellog&show_icons=true&theme=great-gatsby" ></a>
 
 </div>
 
