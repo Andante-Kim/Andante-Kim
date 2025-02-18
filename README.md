@@ -30,7 +30,7 @@
 | Repository Name      | Description | 
 | :---:        |    :----   |  
 | [CodeSignal_Solutions](https://github.com/Andante-Kim/CodeSignal_Solutions) | This repository includes my solutions for the arcade challenges and learning progress in CodeSignal. |
-| [ComputerVision Study](https://github.com/Andante-Kim/ComputerVision_study) | This repository is record for course of studying computer vision with openCV, numpy, etc. |
+| [cv_learning](https://github.com/Andante-Kim/cv_learning) | This repository is record for course of studying computer vision with openCV, numpy, etc. |
 | [NextBridge_Hackathon](https://github.com/Andante-Kim/NextBridge_Hackathon) | A web solution to combat regional extinction in Korea. Developed during the Duksung Women's University hackathon. |
 | [Simple bulletin board webpage_myownworld](https://github.com/Andante-Kim/WebProject1_myownworld) | This repository is my first web programming! You can add your own code.| 
 
