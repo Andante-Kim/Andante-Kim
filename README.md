@@ -77,13 +77,7 @@
 
  </div>
 
-<h1 align="center">My Road Card Stats</h1>
 
-<div align="center">
-
-[![roadmap.sh](https://roadmap.sh/card/tall/67ce6cac81e9e8dd7954322c?variant=dark)](https://roadmap.sh)
-
- </div>
 
 
 <img align="left" alt="Andante's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Andante-Kim&&show_icons=true&theme=dark" width="50%" />
