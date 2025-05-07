@@ -1,27 +1,22 @@
-### Hello world, I'm Andante  👋 
+### Hello world! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 
 -----
 
 ![profile count](https://komarev.com/ghpvc/?username=Andante-Kim&color=red)&nbsp;
-[![GitHub avinash201199](https://img.shields.io/github/followers/Andante-Kim?label=follow&style=social)](https://github.com/Andante-Kim)&nbsp;
-### 👨🏻‍💻 &nbsp;About Me
 
-🥰 &nbsp; Hello everyone, I'm Andante Kim. I'm studying at a university in South-Korea. Right now, I don't know what field is right for me, so I'm experiencing a variety of things.
+Hello everyone, I'm Andante Kim, a CS student in Seoul, South Korea.
 
-🌱 &nbsp;I'm studying data analysis, web programming, and artificial intelligence.\
-✍️ &nbsp;Apart from technical interests, I like reading books, writing something like novels, tarot, universe and neuroscience.\
-✉️ &nbsp;You can email me at andante.mjkim@gmail.com
+I currently study programming. Right now, I don't know what field is right for me, so I'm experiencing a variety of things.
 
+I'm fascinated by data analysis, web programming, and artificial intelligence.
 
------
-### 🌐 &nbsp;Socials:
+Outside of work, I'm interested in reading books, tarot and universe.
 
-
+#### Let's connect!
 <a href="https://www.linkedin.com/in/minjeong-kim-991645318/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:andante.mjkim@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
------  
-
+-----
 
 <h1 align="center">My Repositories to Show You😸</h1>
 
@@ -32,7 +27,7 @@
 | [NextBridge_Hackathon](https://github.com/Andante-Kim/NextBridge_Hackathon) | A web solution to combat regional extinction in Korea. Developed during the Duksung Women's University hackathon. |
 | [Simple bulletin board webpage_myownworld](https://github.com/Andante-Kim/WebProject1_myownworld) | This repository is my first web programming! You can add your own code.| 
 
-
+-----
 
 <h1 align="center">Projects</h1>
 
