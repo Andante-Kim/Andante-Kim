@@ -4,7 +4,7 @@ Hello everyone, I'm Andante Kim, a CS student in Seoul, South Korea.
 
 I currently study at [**@Duksung Women's University**](https://www.duksung.ac.kr).
 
-I'm fascinated by computer-vision and self-driving. So I'm trying to become a SVD Engineer.
+I'm fascinated by computer-vision and self-driving vehicle. So I'm trying to become a SDV software Engineer.
 
 Outside of work, I'm interested in reading books and expressing myself through writing — whether it's [**blog posts**](https://andante-kim.tistory.com/), novels, or personal journals.
 
