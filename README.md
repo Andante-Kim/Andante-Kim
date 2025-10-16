@@ -1,10 +1,10 @@
 ### Hello world! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 
-Hello everyone, I'm [**Andante Kim**], a CS student in Seoul, South Korea.
+Hello everyone, I'm Andante Kim, a CS student in Seoul, South Korea.
 
-I currently study programming. Right now, I don't know what field is right for me, so I'm experiencing a variety of things.
+I currently study at [**@Duksung Women's University**](https://www.duksung.ac.kr)
 
-I'm fascinated by data analysis, web programming, and artificial intelligence.
+I'm fascinated by Computer-Vision and field of self-driving. So I'm trying to become an SVD Engineer.
 
 Outside of work, I'm interested in reading books and expressing myself through writing — whether it's [**blog posts**](https://andante-kim.tistory.com/), novels, or personal journals.
 
